@@ -1,0 +1,6 @@
+{
+    "username": "yourEmail",
+    "password": "yourPassword",
+    "security_token": "yourToken",
+    "remove this row": "When you change your password, The SalesForce sends you your a new Token"
+}
